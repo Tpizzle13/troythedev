@@ -1,0 +1,70 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.TroyP.com" resolutions="1x" timestamp="1586503392743">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="programming.css" crc="39292674" ref="programming"/>
+    <file name="contact.css" crc="309354644" ref="contact"/>
+    <file name="index.css" crc="323015922" ref="index"/>
+    <file name="music.css" crc="56868636" ref="music"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:programming:contact:music"/>
+    <file name="museutils.js" crc="4155826306" ref="index:programming:contact:music"/>
+    <file name="whatinput.js" crc="86476730" ref="index:programming:contact:music"/>
+    <file name="museconfig.js" crc="483509463" ref="index:programming:contact:music"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:programming:contact:music"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:programming:contact:music"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:programming:contact:music"/>
+    <file name="require.js" crc="228336483" ref="index:programming:contact:music"/>
+    <file name="webpro.js" crc="4078243563" ref="programming:contact:music"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="programming:music"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="programming:music"/>
+    <file name="touchswipe.js" crc="157639107" ref="programming:music"/>
+    <file name="form_check.php" crc="474517188" ref="contact"/>
+    <file name="form_throttle.php" crc="495784356" ref="contact"/>
+    <file name="form_process.php" crc="4149049960" ref="contact"/>
+    <file name="form-u2910.php" crc="469464406" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="002.jpg" crc="49128154" seo="true" ref="index"/>
+    <file name="a8aea3d227f1794c3d26e4ec60605e47.jpg" crc="4135964987" seo="true" ref="programming"/>
+    <file name="blank.gif" crc="4208392903" ref="programming:music"/>
+    <file name="imageenemyoo2.jpg" crc="112294865" seo="true" ref="programming"/>
+    <file name="ncg.jpg" crc="131992903" seo="true" ref="programming"/>
+    <file name="nocluyegames_modular_002.jpg" crc="112949113" seo="true" ref="programming"/>
+    <file name="a8aea3d227f1794c3d26e4ec60605e4766x45.jpg" crc="3962652985" seo="true" ref="programming"/>
+    <file name="imageenemyoo260x55.jpg" crc="116545892" seo="true" ref="programming"/>
+    <file name="ncg60x46.jpg" crc="3896360767" seo="true" ref="programming"/>
+    <file name="nocluyegames_modular_00263x45.jpg" crc="414055549" seo="true" ref="programming"/>
+    <file name="loading.gif" crc="3815509949" ref="programming:music"/>
+    <file name="6941364617bb25faec85c086a87f9d1f.jpg" crc="4269686651" seo="true" ref="programming"/>
+    <file name="cc7492fdee730f70b11e0e39f6fe782f.jpg" crc="4223170125" seo="true" ref="programming"/>
+    <file name="f3d45d8432f170e953aba128cdf6a697.jpg" crc="3843456933" seo="true" ref="programming"/>
+    <file name="fecbbac5fc4f89493fe91756fbf2d942.jpg" crc="4019950940" seo="true" ref="programming"/>
+    <file name="6941364617bb25faec85c086a87f9d1f75x45.jpg" crc="4010050405" seo="true" ref="programming"/>
+    <file name="cc7492fdee730f70b11e0e39f6fe782f73x46.jpg" crc="292041552" seo="true" ref="programming"/>
+    <file name="f3d45d8432f170e953aba128cdf6a69774x45.jpg" crc="3933974339" seo="true" ref="programming"/>
+    <file name="fecbbac5fc4f89493fe91756fbf2d94274x45.jpg" crc="3885446083" seo="true" ref="programming"/>
+    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2451.jpg" crc="3946842567" ref="programming"/>
+    <file name="16fc410f38b4802d2e77ce1e03d2b5aa.jpg" crc="4257602598" seo="true" ref="programming"/>
+    <file name="51d7bee16323a6874e96a443266d68cf.jpg" crc="402238722" seo="true" ref="programming"/>
+    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2883.jpg" crc="3862983718" ref="programming"/>
+    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2463.jpg" crc="38399199" ref="programming"/>
+    <file name="16fc410f38b4802d2e77ce1e03d2b5aa60x49.jpg" crc="3994229625" seo="true" ref="programming"/>
+    <file name="51d7bee16323a6874e96a443266d68cf60x52.jpg" crc="3830320381" seo="true" ref="programming"/>
+    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2889.jpg" crc="130328902" ref="programming"/>
+    <file name="u2950-17.png" crc="489620664" ref="contact"/>
+    <file name="u2950-17-r.png" crc="4029767356" ref="contact"/>
+    <file name="u2950-17-m.png" crc="150055611" ref="contact"/>
+    <file name="u2950-17-fs.png" crc="180878702" ref="contact"/>
+    <file name="man of the year.jpg" crc="4064896560" seo="true" ref="music"/>
+    <file name="mixtape cover final.jpg" crc="3908994958" seo="true" ref="music"/>
+    <file name="set your heart free3000.jpg" crc="3777090768" seo="true" ref="music"/>
+    <file name="man of the year-crop-u2101.jpg" crc="3886813323" ref="music"/>
+    <file name="mixtape cover final60x45.jpg" crc="380702351" seo="true" ref="music"/>
+    <file name="set your heart free3000-crop-u2242.jpg" crc="25819506" ref="music"/>
+  </folder>
+  <file name="index.html" crc="218774160" seo="true" mt="1586502925745" redirect="true"/>
+  <file name="programming.html" crc="4077176821" seo="true" mt="1586502885995" redirect="true"/>
+  <file name="contact.html" crc="4229349647" seo="true" mt="1586503376282" redirect="true"/>
+  <file name="music.html" crc="4032788015" seo="true" mt="1586503223038" redirect="true"/>
+</manifest>
