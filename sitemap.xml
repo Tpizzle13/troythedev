@@ -1,18 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.TroyP.com/index.html</loc>
     <lastmod>2020-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.TroyP.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/002-crop-u3280.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://www.TroyP.com/music.html</loc>
+    <loc>http://www.TroyP.com/programming.html</loc>
     <lastmod>2020-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.TroyP.com/phone/music.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.TroyP.com/phone/programming.html"/>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/a8aea3d227f1794c3d26e4ec60605e47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/imageenemyoo2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/ncg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/nocluyegames_modular_002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/6941364617bb25faec85c086a87f9d1f.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/cc7492fdee730f70b11e0e39f6fe782f.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/f3d45d8432f170e953aba128cdf6a697.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/fecbbac5fc4f89493fe91756fbf2d942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/16fc410f38b4802d2e77ce1e03d2b5aa.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/51d7bee16323a6874e96a443266d68cf.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2451.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2883.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2889.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.TroyP.com/contact.html</loc>
@@ -22,166 +67,25 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.TroyP.com/phone/contact.html"/>
   </url>
   <url>
-    <loc>http://www.TroyP.com/programming.html</loc>
+    <loc>http://www.TroyP.com/music.html</loc>
     <lastmod>2020-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.TroyP.com/phone/programming.html"/>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/a8aea3d227f1794c3d26e4ec60605e4766x45.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/imageenemyoo260x55.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/ncg60x46.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/nocluyegames_modular_00263x45.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/6941364617bb25faec85c086a87f9d1f.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/cc7492fdee730f70b11e0e39f6fe782f.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/f3d45d8432f170e953aba128cdf6a697.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/fecbbac5fc4f89493fe91756fbf2d942.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/6941364617bb25faec85c086a87f9d1f75x45.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/cc7492fdee730f70b11e0e39f6fe782f73x46.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/ncg.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/nocluyegames_modular_002.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/16fc410f38b4802d2e77ce1e03d2b5aa.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/51d7bee16323a6874e96a443266d68cf.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/16fc410f38b4802d2e77ce1e03d2b5aa60x49.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/51d7bee16323a6874e96a443266d68cf60x52.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/man%20of%20the%20year.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/mixtape%20cover%20final.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/set%20your%20heart%20free3000.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/mixtape%20cover%20final60x45.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/6f9ee3cb43d172ee5efa58c1c4b938fc.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/screen-shot-2017-11-09-at-34232-pm-768x449.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/imageenemyoo2.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/a8aea3d227f1794c3d26e4ec60605e47.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/f3d45d8432f170e953aba128cdf6a69774x45.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.TroyP.com/images/fecbbac5fc4f89493fe91756fbf2d94274x45.jpg</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.TroyP.com/phone/music.html"/>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/man%20of%20the%20year.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/mixtape%20cover%20final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/set%20your%20heart%20free3000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/man%20of%20the%20year-crop-u2101.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/set%20your%20heart%20free3000-crop-u2242.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

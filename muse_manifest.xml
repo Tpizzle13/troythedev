@@ -1,81 +1,179 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.TroyP.com" resolutions="1x" timestamp="1586717462309">
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="149514051" ref="phone>index"/>
-      <file name="contact.css" crc="4088584891" ref="phone>contact"/>
-      <file name="programming.css" crc="428200100" ref="phone>programming"/>
-      <file name="music.css" crc="428323526" ref="phone>music"/>
-    </folder>
-    <file name="index.html" crc="112969331" seo="true" mt="1586717146535" redirect="true"/>
-    <file name="programming.html" crc="4131274560" seo="true" mt="1586717212195" redirect="true"/>
-    <file name="music.html" crc="288977062" seo="true" mt="1586717262595" redirect="true"/>
-    <file name="contact.html" crc="399887450" seo="true" mt="1586717290018" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.TroyP.com" resolutions="1x" timestamp="1586724646839">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="programming.css" crc="3847222447" ref="programming"/>
+    <file name="site_global.css" crc="444006867"/>
     <file name="contact.css" crc="174836936" ref="contact"/>
-    <file name="index.css" crc="323015922" ref="index"/>
-    <file name="music.css" crc="3853580194" ref="music"/>
+    <file name="index.css" crc="289934697" ref="index"/>
+    <file name="programming.css" crc="384294159" ref="programming"/>
+    <file name="music.css" crc="3841604741" ref="music"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="museutils.js" crc="4155826306" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="museconfig.js" crc="483509463" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="jquery.musemenu.js" crc="3765356681" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="jquery.watch.js" crc="117772946" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="require.js" crc="228336483" ref="index:programming:contact:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="webpro.js" crc="4078243563" ref="programming:music:phone>index:phone>programming:phone>music:phone>contact"/>
-    <file name="musewpslideshow.js" crc="4115829919" ref="programming:music:phone>programming:phone>music"/>
-    <file name="jquery.museoverlay.js" crc="3936724022" ref="programming:music:phone>programming:phone>music"/>
-    <file name="touchswipe.js" crc="157639107" ref="programming:music:phone>programming:phone>music"/>
-    <file name="musewpdisclosure.js" crc="3802586038" ref="phone>index:phone>programming:phone>music:phone>contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>programming:phone>music:phone>contact:programming:music"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index:phone>programming:phone>music:phone>contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>programming:phone>music:phone>contact:index:programming:contact:music"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>programming:phone>music:programming:music"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>programming:phone>music:programming:music"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>programming:phone>music:programming:music"/>
   </folder>
   <folder name="images">
-    <file name="a8aea3d227f1794c3d26e4ec60605e47.jpg" crc="4135964987" seo="true" ref="programming:phone>programming"/>
-    <file name="blank.gif" crc="4208392903" ref="programming:music:phone>programming:phone>music"/>
-    <file name="imageenemyoo2.jpg" crc="112294865" seo="true" ref="programming:phone>programming"/>
-    <file name="ncg.jpg" crc="131992903" seo="true" ref="programming:phone>programming"/>
-    <file name="nocluyegames_modular_002.jpg" crc="112949113" seo="true" ref="programming:phone>programming"/>
-    <file name="a8aea3d227f1794c3d26e4ec60605e4766x45.jpg" crc="3962652985" seo="true" ref="phone>programming"/>
-    <file name="imageenemyoo260x55.jpg" crc="116545892" seo="true" ref="phone>programming"/>
-    <file name="ncg60x46.jpg" crc="3896360767" seo="true" ref="phone>programming"/>
-    <file name="nocluyegames_modular_00263x45.jpg" crc="414055549" seo="true" ref="phone>programming"/>
-    <file name="loading.gif" crc="3815509949" ref="programming:music:phone>programming:phone>music"/>
-    <file name="6941364617bb25faec85c086a87f9d1f.jpg" crc="414560078" seo="true" ref="programming:phone>programming"/>
-    <file name="cc7492fdee730f70b11e0e39f6fe782f.jpg" crc="505065155" seo="true" ref="programming:phone>programming"/>
-    <file name="f3d45d8432f170e953aba128cdf6a697.jpg" crc="253692129" seo="true" ref="programming:phone>programming"/>
-    <file name="fecbbac5fc4f89493fe91756fbf2d942.jpg" crc="59049711" seo="true" ref="programming:phone>programming"/>
-    <file name="6941364617bb25faec85c086a87f9d1f75x45.jpg" crc="4184524372" seo="true" ref="phone>programming"/>
-    <file name="cc7492fdee730f70b11e0e39f6fe782f73x46.jpg" crc="134351473" seo="true" ref="phone>programming"/>
-    <file name="f3d45d8432f170e953aba128cdf6a69774x45.jpg" crc="3841319780" seo="true" ref="phone>programming"/>
-    <file name="fecbbac5fc4f89493fe91756fbf2d94274x45.jpg" crc="477262830" seo="true" ref="phone>programming"/>
-    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2451.jpg" crc="286125315" ref="programming"/>
-    <file name="16fc410f38b4802d2e77ce1e03d2b5aa.jpg" crc="4257602598" seo="true" ref="programming:phone>programming"/>
-    <file name="51d7bee16323a6874e96a443266d68cf.jpg" crc="402238722" seo="true" ref="programming:phone>programming"/>
-    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2883.jpg" crc="4279795888" ref="programming"/>
-    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2463.jpg" crc="38399199" ref="programming"/>
-    <file name="16fc410f38b4802d2e77ce1e03d2b5aa60x49.jpg" crc="3994229625" seo="true" ref="phone>programming"/>
-    <file name="51d7bee16323a6874e96a443266d68cf60x52.jpg" crc="3830320381" seo="true" ref="phone>programming"/>
-    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2889.jpg" crc="130328902" ref="programming"/>
-    <file name="man of the year.jpg" crc="4064896560" seo="true" ref="music:phone>music"/>
-    <file name="mixtape cover final.jpg" crc="3908994958" seo="true" ref="music:phone>music"/>
-    <file name="set your heart free3000.jpg" crc="3777090768" seo="true" ref="music:phone>music"/>
-    <file name="man of the year-crop-u2101.jpg" crc="3886813323" ref="music"/>
-    <file name="mixtape cover final60x45.jpg" crc="380702351" seo="true" ref="phone>music"/>
-    <file name="set your heart free3000-crop-u2242.jpg" crc="25819506" ref="music"/>
-    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc.jpg" crc="61379712" seo="true" ref="phone>programming"/>
-    <file name="screen-shot-2017-11-09-at-34232-pm-768x449.jpg" crc="128583861" seo="true" ref="phone>programming"/>
-    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u5658.jpg" crc="38399199" ref="phone>programming"/>
-    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u5664.jpg" crc="130328902" ref="phone>programming"/>
-    <file name="man of the year-crop-u6787.jpg" crc="3886813323" ref="phone>music"/>
-    <file name="set your heart free3000-crop-u6785.jpg" crc="25819506" ref="phone>music"/>
-    <file name="002-crop-u3280.jpg" crc="4165848083" ref="index"/>
+    <file name="a8aea3d227f1794c3d26e4ec60605e4766x45.jpg" crc="215189783" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="imageenemyoo260x55.jpg" crc="357016499" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="ncg60x46.jpg" crc="4255464262" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="nocluyegames_modular_00263x45.jpg" crc="3765335567" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="a8aea3d227f1794c3d26e4ec60605e47.jpg" crc="4135964987" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>programming:phone>music:programming:music"/>
+    <file name="imageenemyoo2.jpg" crc="112294865" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="ncg.jpg" crc="131992903" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="nocluyegames_modular_002.jpg" crc="112949113" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>programming:phone>music:programming:music"/>
+    <file name="6941364617bb25faec85c086a87f9d1f75x45.jpg" crc="3852031171" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="cc7492fdee730f70b11e0e39f6fe782f73x46.jpg" crc="22597443" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="f3d45d8432f170e953aba128cdf6a69774x45.jpg" crc="171006201" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="fecbbac5fc4f89493fe91756fbf2d94274x45.jpg" crc="314191780" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="6941364617bb25faec85c086a87f9d1f.jpg" crc="414560078" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="cc7492fdee730f70b11e0e39f6fe782f.jpg" crc="505065155" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="f3d45d8432f170e953aba128cdf6a697.jpg" crc="253692129" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="fecbbac5fc4f89493fe91756fbf2d942.jpg" crc="59049711" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u5658.jpg" crc="71492636" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="16fc410f38b4802d2e77ce1e03d2b5aa60x49.jpg" crc="67967113" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="51d7bee16323a6874e96a443266d68cf60x52.jpg" crc="3958670237" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u5664.jpg" crc="4055986815" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc.jpg" crc="61379712" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="16fc410f38b4802d2e77ce1e03d2b5aa.jpg" crc="4257602598" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="51d7bee16323a6874e96a443266d68cf.jpg" crc="402238722" seo="true" ref="phone>programming:programming">
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="screen-shot-2017-11-09-at-34232-pm-768x449.jpg" crc="128583861" seo="true" ref="phone>programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="man of the year-crop-u6787.jpg" crc="3782801842" seo="true" ref="phone>music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="mixtape cover final60x45.jpg" crc="525410938" seo="true" ref="phone>music">
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="set your heart free3000-crop-u6785.jpg" crc="504785345" seo="true" ref="phone>music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="man of the year.jpg" crc="4064896560" seo="true" ref="phone>music:music">
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="mixtape cover final.jpg" crc="3908994958" seo="true" ref="phone>music:music">
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="set your heart free3000.jpg" crc="3777090768" seo="true" ref="phone>music:music">
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="002-crop-u3280.jpg" crc="4164752553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2451.jpg" crc="256843591" seo="true" ref="programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2883.jpg" crc="402976155" seo="true" ref="programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="6f9ee3cb43d172ee5efa58c1c4b938fc-crop-u2463.jpg" crc="71492636" seo="true" ref="programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2889.jpg" crc="4055986815" seo="true" ref="programming">
+      <caption webpage="programming" alt=""/>
+    </file>
+    <file name="man of the year-crop-u2101.jpg" crc="3782801842" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="set your heart free3000-crop-u2242.jpg" crc="504785345" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4078056559" seo="true" mt="1586631151240" redirect="true"/>
-  <file name="programming.html" crc="41739125" seo="true" mt="1586631151286" redirect="true"/>
-  <file name="contact.html" crc="405797627" seo="true" mt="1586717416292" redirect="true"/>
-  <file name="music.html" crc="4221174281" seo="true" mt="1586631151364" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="417193083" ref="phone>index"/>
+      <file name="music.css" crc="405221504" ref="phone>music"/>
+      <file name="contact.css" crc="105695693" ref="phone>contact"/>
+      <file name="programming.css" crc="3959231033" ref="phone>programming"/>
+    </folder>
+    <file name="index.html" crc="409719001" seo="true" mt="1586717146535" redirect="true"/>
+    <file name="programming.html" crc="260044418" seo="true" mt="1586719804700" redirect="true"/>
+    <file name="music.html" crc="4144618551" seo="true" mt="1586717262595" redirect="true"/>
+    <file name="contact.html" crc="145616952" seo="true" mt="1586717290018" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4006712970" seo="true" mt="1586631151240" redirect="true"/>
+  <file name="programming.html" crc="3971837754" seo="true" mt="1586631151286" redirect="true"/>
+  <file name="contact.html" crc="4091187482" seo="true" mt="1586717416292" redirect="true"/>
+  <file name="music.html" crc="175122752" seo="true" mt="1586631151364" redirect="true"/>
 </manifest>
