@@ -12,10 +12,22 @@
   </url>
   <url>
     <loc>http://www.TroyP.com/programming.html</loc>
-    <lastmod>2020-04-11</lastmod>
+    <lastmod>2020-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.TroyP.com/phone/programming.html"/>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/a8aea3d227f1794c3d26e4ec60605e4766x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/imageenemyoo260x55.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/ncg60x46.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/nocluyegames_modular_00263x45.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.TroyP.com/images/a8aea3d227f1794c3d26e4ec60605e47.jpg</image:loc>
     </image:image>
@@ -29,6 +41,18 @@
       <image:loc>http://www.TroyP.com/images/nocluyegames_modular_002.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.TroyP.com/images/6941364617bb25faec85c086a87f9d1f75x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/cc7492fdee730f70b11e0e39f6fe782f73x46.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/f3d45d8432f170e953aba128cdf6a69774x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/fecbbac5fc4f89493fe91756fbf2d94274x45.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.TroyP.com/images/6941364617bb25faec85c086a87f9d1f.jpg</image:loc>
     </image:image>
     <image:image>
@@ -39,6 +63,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.TroyP.com/images/fecbbac5fc4f89493fe91756fbf2d942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/16fc410f38b4802d2e77ce1e03d2b5aa60x49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/51d7bee16323a6874e96a443266d68cf60x52.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.TroyP.com/images/16fc410f38b4802d2e77ce1e03d2b5aa.jpg</image:loc>
@@ -57,6 +87,30 @@
     </image:image>
     <image:image>
       <image:loc>http://www.TroyP.com/images/screen-shot-2017-11-09-at-34232-pm-768x449-crop-u2889.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/bb2016527315528fe7783aede9b855e3-crop-u7215.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/cf34aeb5e824b5ac9f7f0f37a314cf33-crop-u7195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/b97f264d2acf8af595ef3c96c36e84b0-crop-u7235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/0447faf44d26d86628babe22fe685ec1-crop-u7255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/bb2016527315528fe7783aede9b855e3-crop-u7221.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/b97f264d2acf8af595ef3c96c36e84b0-crop-u7241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/cf34aeb5e824b5ac9f7f0f37a314cf33-crop-u7201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.TroyP.com/images/0447faf44d26d86628babe22fe685ec1-crop-u7261.jpg</image:loc>
     </image:image>
   </url>
   <url>
